@@ -19,5 +19,5 @@
   "issue": 436,
   "branch": "fix/projected-building-coordinates-20260928",
   "title": "Transform building centroid coordinates to EPSG:4326 before writing",
-  "head": "166564c5b26911b25a249e3cd5191576a5da0137"
+  "head": "165cd2443360a1a598095dfae4288cbf83022952"
 }
