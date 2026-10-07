@@ -26,7 +26,7 @@ jobs:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
         with:
           repository: sylvesterkaczmarek/skai
-          ref: '165cd2443360a1a598095dfae4288cbf83022952'
+          ref: 'c30c1daed9491cdc39317aef8926fd9fc4f224e5'
           path: work
           fetch-depth: 0
           persist-credentials: false
