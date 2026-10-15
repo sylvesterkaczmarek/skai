@@ -1,7 +1,7 @@
 {
   "repo": "google-research/skai",
   "base_branch": "main",
-  "base": "1f592dca6990a03377cfa8563f93920cbb150063",
+  "base": "8e0afa5b62a5e9d0fdf90ec0b35744baded3d9aa",
   "source": "src/skai/buildings.py",
   "test": "src/skai/buildings_crs_test.py",
   "new_counts": [
@@ -19,5 +19,5 @@
   "issue": 436,
   "branch": "fix/projected-building-coordinates-20260928",
   "title": "Transform building centroid coordinates to EPSG:4326 before writing",
-  "head": "c30c1daed9491cdc39317aef8926fd9fc4f224e5"
+  "head": "a1b744d393d73999e1ed6862e5569b1652bdbfe3"
 }
